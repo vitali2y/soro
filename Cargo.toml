@@ -1,0 +1,10 @@
+[package]
+name = "soro"
+description = "Simple Online RadiO cli player"
+authors = ["Vi+ <vitaliyy@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console = "0.15"
+tempfile = "3.14"
